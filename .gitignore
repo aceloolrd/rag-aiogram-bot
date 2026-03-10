@@ -1,0 +1,34 @@
+# Environment
+.env
+.env.local
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Runtime data (contents excluded via data/.gitignore)
+
+# Dev scripts
+test.py
+
+# AI assistant files
+CLAUDE.md
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

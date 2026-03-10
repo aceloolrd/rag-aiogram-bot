@@ -1,0 +1,10 @@
+[project]
+name = "rag-aiogram-bot"
+version = "1.0.0"
+description = "Telegram RAG bot with local LLM inference via Ollama"
+requires-python = ">=3.10"
+readme = "README.md"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/yourusername/rag-aiogram-bot"
